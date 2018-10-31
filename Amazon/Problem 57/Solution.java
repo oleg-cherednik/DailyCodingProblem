@@ -21,7 +21,6 @@ public class Solution {
         for (String word : words) {
             if (word.length() > k)
                 return null;
-
             if (buf == null)
                 buf = new StringBuilder(word);
             else if (buf.length() + word.length() + 1 <= k)
