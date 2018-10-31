@@ -26,8 +26,10 @@ public class Solution {
             System.out.println(matrix[y][x]);
             visited[y][x] = true;
 
-            if (!direction.isNextMoveAvailable(x, y, visited))
-                direction = direction.next().isNextMoveAvailable(x, y, visited) ? direction.next() : Direction.NONE;
+            if (!direction.isNextMoveAvailable(x, y, visited)) {
+                direction = direction.next();
+                direction = direction.isNextMoveAvailable(x, y, visited) ? direction : Direction.NONE;
+            }
 
             x = direction.moveX(x);
             y = direction.moveY(y);
