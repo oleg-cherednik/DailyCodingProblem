@@ -44,10 +44,7 @@ public class Solution {
         int count = countUnivalSubtrees(node.left);
         count += countUnivalSubtrees(node.right);
 
-        if (isUnivalTree(node))
-            count++;
-
-        return count;
+        return isUnivalTree(node) ? count + 1 : count;
     }
 
     private static boolean isUnivalTree(Node node) {
