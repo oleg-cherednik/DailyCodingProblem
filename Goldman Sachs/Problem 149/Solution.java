@@ -18,12 +18,14 @@ public class Solution {
         int i = 0;
         long sum = 0;
 
+        SUM.put(-1, 0L);
+
         for (int num : Arrays.asList(1, 2, 3, 4, 5, 6))
             SUM.put(i++, sum += num);
     }
 
     public static long sum(int i, int j) {
-        return SUM.getOrDefault(j - 1, 0L) - SUM.getOrDefault(i - 1, 0L);
+        return SUM.get(j - 1) - SUM.get(i - 1);
     }
 
 }
