@@ -15,7 +15,7 @@ public class Solution {
         int j = 0;
         int sum = 0;
 
-        for (; j <= arr.length && sum != k; ) {
+        while (j <= arr.length && sum != k) {
             if (sum < k)
                 sum += arr[j++];
             else
