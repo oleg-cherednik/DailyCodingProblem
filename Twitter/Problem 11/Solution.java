@@ -36,7 +36,7 @@ public class Solution {
                 if (i == prefix.length())
                     return node;
                 node = node.getChild(prefix.charAt(i));
-                i += 1;
+                i++;
             }
         }
 
