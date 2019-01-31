@@ -3,7 +3,7 @@ import java.util.stream.Collectors;
 
 /**
  * @author Oleg Cherednik
- * @since 21.01.2019
+ * @since 31.01.2019
  */
 public class Solution {
     public static void main(String[] args) {
