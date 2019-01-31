@@ -9,43 +9,23 @@ import java.util.List;
 public class Solution {
 
     public static void main(String... args) {
-        Node root = createList(5);
-        print(root);
-        print(remove(root, 1));
+        test(5, 0);
+    }
+
+    private static void test(int total, int k) {
+        Node root = createList(total);
+        System.out.println(print(root) + " -> " + print(remove(root, k)));
     }
 
     public static Node remove(Node root, int k) {
-        Node prv1 = null;
-        Node node1 = root;
-        int pos1 = 0;
+        int size = 0;
 
-
-        Node prv = null;
         Node node = root;
 
-        int pos = 0;
-
-        while (node.hasNext()) {
-            prv = node;
-            node = node.next;
-            pos++;
-
-            if (pos % (k + 1) == 0) {
-                node1 = node;
-                pos1 = pos;
-                prv1 = prv;
-            }
+        while (node != null) {
+            node
         }
 
-        if (prv1 == null) {
-            Node res = node1.next;
-            node1.next = null;
-            return res;
-        }
-
-        Node tmp = node1.next;
-        node1.next = null;
-        prv1.next = tmp;
         return root;
     }
 
@@ -86,7 +66,7 @@ public class Solution {
         return root;
     }
 
-    private static void print(Node node) {
+    private static String print(Node node) {
         List<Integer> values = new ArrayList<>();
 
         while (node != null) {
@@ -94,6 +74,6 @@ public class Solution {
             node = node.next;
         }
 
-        System.out.println(Arrays.toString(values.stream().mapToInt(val -> val).toArray()));
+        return Arrays.toString(values.stream().mapToInt(val -> val).toArray());
     }
 }
