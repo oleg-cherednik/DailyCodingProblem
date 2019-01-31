@@ -9,6 +9,8 @@ public class Solution {
     public static void main(String[] args) {
         System.out.println(splitWords(words("quick", "brown", "the", "fox"), "thequickbrownfox"));
         System.out.println(splitWords(words("bed", "bath", "bedbath", "and", "beyond"), "bedbathandbeyond"));
+        System.out.println(splitWords(words("the", "theremin"), "theremin"));
+        System.out.println(splitWords(words("a", "aa", "aaa", "aaaa", "aaaaa"), "aaaaab"));
     }
 
     private static Set<String> words(String... words) {
