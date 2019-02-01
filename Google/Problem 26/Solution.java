@@ -4,12 +4,17 @@ import java.util.List;
 
 /**
  * @author Oleg Cherednik
- * @since 31.01.2019
+ * @since 01.02.2019
  */
 public class Solution {
 
     public static void main(String... args) {
-        test(5, 0);
+        test(5, 0); // [0, 1, 2, 3]
+        test(5, 1); // [0, 1, 2, 4]
+        test(5, 2); // [0, 1, 3, 4]
+        test(5, 3); // [0, 2, 3, 4]
+        test(5, 4); // [1, 2, 3, 4]
+        test(1, 0); // []
     }
 
     private static void test(int total, int k) {
@@ -18,32 +23,41 @@ public class Solution {
     }
 
     public static Node remove(Node root, int k) {
-        int size = 0;
+        if (root == null)
+            return null;
 
+        int pos = 0;
+        Node prv = null;
         Node node = root;
 
         while (node != null) {
-            node
+            node = node.next;
+            pos++;
+
+            if (pos > k + 1)
+                prv = prv != null ? prv.next : root;
         }
+
+        if (prv == null) {
+            node = root.next;
+            root.next = null;
+            return node;
+        }
+
+        node = prv.next.next;
+        prv.next = null;
+        prv.next = node;
 
         return root;
     }
 
     private static final class Node {
+
         private final int data;
         private Node next;
 
         public Node(int data) {
             this.data = data;
-        }
-
-        public boolean hasNext() {
-            return next != null;
-        }
-
-        @Override
-        public String toString() {
-            return String.valueOf(data);
         }
     }
 
