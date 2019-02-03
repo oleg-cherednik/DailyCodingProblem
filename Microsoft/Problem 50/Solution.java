@@ -1,40 +1,61 @@
+import java.util.function.BiFunction;
+
 /**
  * @author Oleg Cherednik
- * @since 31.10.2018
+ * @since 03.02.2019
  */
 public class Solution {
 
-    public static String evaulate(Node root) {
-        String expr = dfs(root, new StringBuilder()).toString();
-        Object res = null;    // TODO evaluate JavaScript
-        return String.valueOf(res);
+    public static void main(String... args) {
+        System.out.println(calc(create()));
     }
 
-    private static StringBuilder dfs(Node node, StringBuilder buf) {
-        if (node == null || (node.left == null && node.right == null))
-            return buf;
+    private static Node create() {
+        ValueNode node2 = new ValueNode(2);
+        ValueNode node3 = new ValueNode(3);
+        ValueNode node4 = new ValueNode(4);
+        ValueNode node5 = new ValueNode(5);
 
-        buf.append('(');
-        dfs(node.left, buf);
-        buf.append(' ').append(node.ch).append(' ');
-        dfs(node.right, buf);
-        buf.append(')');
+        BiFunction<Double, Double, Double> add = (one, two) -> one + two;
+        BiFunction<Double, Double, Double> multiply = (one, two) -> one * two;
 
-        return buf;
+        OperationNode addLeft = new OperationNode(add, node3, node2);
+        OperationNode addRight = new OperationNode(add, node4, node5);
+        return new OperationNode(multiply, addLeft, addRight);
     }
 
-    public static final class Node {
+    public static double calc(Node node) {
+        if (node instanceof ValueNode)
+            return ((ValueNode)node).val;
 
-        private final char ch;
-        private Node left;
-        private Node right;
+        double left = calc(((OperationNode)node).left);
+        double right = calc(((OperationNode)node).right);
+        return ((OperationNode)node).function.apply(left, right);
+    }
 
-        public Node(char ch) {
-            this.ch = ch;
+    public interface Node {
+    }
+
+    public static final class OperationNode implements Node {
+
+        private final BiFunction<Double, Double, Double> function;
+        private final Node left;
+        private final Node right;
+
+        public OperationNode(BiFunction<Double, Double, Double> function, Node left, Node right) {
+            this.function = function;
+            this.left = left;
+            this.right = right;
         }
     }
 
-    public static void main(String... args) {
+    public static final class ValueNode implements Node {
 
+        private final double val;
+
+        public ValueNode(double val) {
+            this.val = val;
+        }
     }
+
 }
