@@ -9,18 +9,15 @@ public class Solution {
     }
 
     public static int findLongestIncreasingSubsequence(int[] arr) {
-        int[] tmp = new int[arr.length];
+        int[] cache = new int[arr.length];
         int res = 0;
 
-        for (int i = 0; i < arr.length; i++) {
-            int max = 0;
-
+        for (int i = 0, max = 0; i < arr.length; i++, max = 0) {
             for (int j = 0; j < i; j++)
                 if (arr[j] < arr[i])
-                    max = Math.max(max, tmp[j]);
+                    max = Math.max(max, cache[j]);
 
-            tmp[i] = max + 1;
-            res = Math.max(res, tmp[i]);
+            res = Math.max(res, cache[i] = max + 1);
         }
 
         return res;
