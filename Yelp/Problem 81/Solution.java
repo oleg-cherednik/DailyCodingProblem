@@ -7,7 +7,7 @@ import java.util.TreeSet;
 
 /**
  * @author Oleg Cherednik
- * @since 28.11.2018
+ * @since 09.02.2019
  */
 public class Solution {
 
