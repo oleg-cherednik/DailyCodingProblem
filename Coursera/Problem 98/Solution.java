@@ -37,6 +37,7 @@ public class Solution {
         return visited;
     }
 
+    @SuppressWarnings("AssignmentReplaceableWithOperatorAssignment")
     private static boolean exists(char[][] board, int row, int col, String str, int offs, boolean[][] visited) {
         if (offs >= str.length())
             return true;
@@ -51,17 +52,13 @@ public class Solution {
 
         visited[row][col] = true;
 
-        if (exists(board, row, col + 1, str, offs + 1, visited))
-            return true;
-        if (exists(board, row, col - 1, str, offs + 1, visited))
-            return true;
-        if (exists(board, row + 1, col, str, offs + 1, visited))
-            return true;
-        if (exists(board, row - 1, col, str, offs + 1, visited))
-            return true;
+        boolean exists = exists(board, row, col + 1, str, offs + 1, visited);
+        exists = exists || exists(board, row, col - 1, str, offs + 1, visited);
+        exists = exists || exists(board, row + 1, col, str, offs + 1, visited);
+        exists = exists || exists(board, row - 1, col, str, offs + 1, visited);
 
         visited[row][col] = false;
-        return false;
+        return exists;
     }
 
 
