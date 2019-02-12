@@ -5,8 +5,10 @@
 public class Solution {
 
     public static void main(String... args) {
-        System.out.println(reverseWords("hello world here"));
-        System.out.println(new String(reverseWords("hello world here".toCharArray())));
+        String str = "hello world here";
+        System.out.println(str);
+        System.out.println(reverseWords(str));
+        System.out.println(new String(reverseWords(str.toCharArray())));
     }
 
     public static String reverseWords(String str) {
@@ -26,41 +28,33 @@ public class Solution {
     }
 
     public static char[] reverseWords(char... arr) {
-        if (arr == null || arr.length == 0)
-            return arr;
+        swapArr(arr, 0, arr.length - 1);
 
-        reverse(arr, 0, arr.length);
+        for (int i = 0, j = 0; j < arr.length; j++) {
+            if (arr[j] == ' ') {
+                if (arr[i] != ' ')
+                    swapArr(arr, i, j - 1);
 
-        int from = 0;
-        int to = 0;
-
-        while (to < arr.length) {
-            while (from < arr.length && arr[from] == ' ') {
-                from++;
-                to++;
+                i = j;
+            } else {
+                if (arr[i] == ' ')
+                    i = j;
+                if (j == arr.length - 1 && arr[i] != ' ')
+                    swapArr(arr, i, j);
             }
-
-            if (from == arr.length)
-                break;
-
-            while (to < arr.length && arr[to] != ' ')
-                to++;
-
-            reverse(arr, from, to);
-            from = to;
         }
 
         return arr;
     }
 
-    private static void reverse(char[] arr, int from, int to) {
-        for (int i = from, j = to - 1; i < j; i++, j--)
-            swap(arr, i, j);
+    private static void swapArr(char[] arr, int i, int j) {
+        while (i < j)
+            swap(arr, i++, j--);
     }
 
     private static void swap(char[] arr, int i, int j) {
-        char ch = arr[i];
+        char tmp = arr[i];
         arr[i] = arr[j];
-        arr[j] = ch;
+        arr[j] = tmp;
     }
 }
