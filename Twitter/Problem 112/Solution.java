@@ -1,6 +1,3 @@
-import java.util.HashSet;
-import java.util.Set;
-
 /**
  * @author Oleg Cherednik
  * @since 12.02.2019
@@ -35,24 +32,39 @@ public class Solution {
     }
 
     public static Node findLowestCommonAncestor(Node one, Node two) {
-        Set<Node> visited = new HashSet<>();
+        int depthOne = depth(one);
+        int depthTwo = depth(two);
 
-        while (one != null) {
-            visited.add(one);
+        while (depthOne > depthTwo) {
             one = one.parent;
+            depthOne--;
         }
 
-        while (two != null) {
-            if (visited.contains(two)) {
-                visited.clear();
-                return two;
-            }
+        while (depthOne < depthTwo) {
+            two = two.parent;
+            depthTwo--;
+        }
 
+        while (one != null && two != null) {
+            if (one == two)
+                return one;
+
+            one = one.parent;
             two = two.parent;
         }
 
-        visited.clear();
         return null;
+    }
+
+    private static int depth(Node node) {
+        int depth = 0;
+
+        while (node != null) {
+            depth++;
+            node = node.parent;
+        }
+
+        return depth;
     }
 
     private static final class Node {
