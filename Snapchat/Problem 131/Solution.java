@@ -9,9 +9,9 @@ public class Solution {
 
     public static void main(String... args) {
         Node head = createList();
-        print(head);
+        print(head);                    // 1(4) -> 2(5) -> 3(1) -> 4(2) -> 5(3) -> 6(null)
         Node resHead = deepCopy(head);
-        print(resHead);
+        print(resHead);                 // 1(4) -> 2(5) -> 3(1) -> 4(2) -> 5(3) -> 6(null)
     }
 
     private static Node createList() {
