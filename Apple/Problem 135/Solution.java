@@ -79,11 +79,6 @@ public class Solution {
         public Node(int data) {
             this.data = data;
         }
-
-        public String toString() {
-            return String.valueOf(data);
-        }
     }
-
 
 }
