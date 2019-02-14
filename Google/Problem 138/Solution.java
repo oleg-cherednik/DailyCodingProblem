@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class Solution {
 
     public static void main(String... args) {
-        System.out.println(getMinCoinsAmount(16));
+        System.out.println(getMinCoinsAmount(16));  // 3
     }
 
     private static final int[] DENOMINATION = {1, 5, 10, 25};
