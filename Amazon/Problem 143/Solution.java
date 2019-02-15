@@ -31,5 +31,4 @@ public class Solution {
         arr[j] = tmp;
     }
 
-
 }
