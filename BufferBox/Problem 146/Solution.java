@@ -29,23 +29,9 @@ public class Solution {
         if (node == null)
             return null;
 
-        prune(node.left);
-        prune(node.right);
-
-        if (canPrune(node.left))
-            node.left = null;
-        if (canPrune(node.right))
-            node.right = null;
-
-        return node;
-    }
-
-    private static boolean canPrune(Node node) {
-        if (node == null)
-            return true;
-        if (node.data == 1)
-            return false;
-        return canPrune(node.left) && canPrune(node.right);
+        node.left = prune(node.left);
+        node.right = prune(node.right);
+        return node.data == 0 && node.left == null && node.right == null ? null : node;
     }
 
     private static final class Node {
