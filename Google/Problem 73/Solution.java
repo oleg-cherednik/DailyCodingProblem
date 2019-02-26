@@ -1,10 +1,8 @@
 /**
- * Given the head of a singly linked list, reverse it in-place.
- *
  * @author Oleg Cherednik
  * @since 30.10.2018
  */
-public class Problem73 {
+public class Solution {
 
     public static void main(String... args) {
         Node root = createList(1, 2, 3, 4, 5);
