@@ -9,7 +9,8 @@ public class Solution {
 
     public static void main(String... args) {
         Node root = createTree();
-        String str = serialize(root);   // 1(2(4()())(5()(6()())))(2(4()())(5()(6()())))
+        String str = serialize(root);   // 1(2(4()())(5(6()())()))(3(7()(8()()))())
+        System.out.println(str);
         Node res = deserialize(str);
     }
 
