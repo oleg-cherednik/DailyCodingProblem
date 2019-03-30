@@ -13,29 +13,22 @@ public class Solution {
     }
 
     public static int findWaysAmount(int[][] board) {
-        int[] line = new int[board[0].length];
+        final int width = board[0].length;
+        final int height = board.length;
 
-        for (int row = 0; row < board.length; row++) {
-            for (int col = 0; col < line.length; col++) {
+        int[] arr = new int[width];
+        arr[0] = 1;
+
+        for (int row = 0; row < height; row++) {
+            for (int col = 0; col < width; col++) {
                 if (board[row][col] == 1)
-                    continue;
-
-                int count = 0;
-
-                if (row == 0 && col == 0)
-                    count = 1;
-                else {
-                    if (col > 0 && board[row][col - 1] == 0)
-                        count += line[col - 1];
-                    if (row > 0 && board[row - 1][col] == 0)
-                        count += line[col];
-                }
-
-                line[col] = count;
+                    arr[col] = 0;
+                else if (col > 0)
+                    arr[col] += arr[col - 1];
             }
         }
 
-        return line[line.length - 1];
+        return arr[width - 1];
     }
 
 }
