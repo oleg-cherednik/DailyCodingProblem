@@ -55,9 +55,9 @@ public class Solution {
     }
 
     public static Node deserialize(String str) {
-        Deque<Node> queue = new LinkedList<>();
-        deserialize(str, 0, queue);
-        return queue.pop();
+        Deque<Node> stack = new LinkedList<>();
+        deserialize(str, 0, stack);
+        return stack.pop();
     }
 
     private static int deserialize(String str, int pos, Deque<Node> stack) {
