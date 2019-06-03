@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 /**
  * @author Oleg Cherednik
- * @since 3.06.2019
+ * @since 03.06.2019
  */
 public class Solution {
 
