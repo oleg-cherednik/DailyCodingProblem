@@ -1,4 +1,6 @@
 ![alt-text-1](https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/dcp.jpg "title-1") ![alt-text-2](https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/java.png "title-2")
+
+![](https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/java.png)
 ---
 [![dcp](https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/dcp.jpg)](https://www.dailycodingproblem.com)
 ![java](https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/java.png)
