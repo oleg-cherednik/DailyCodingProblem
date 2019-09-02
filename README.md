@@ -1,5 +1,5 @@
 [![dcp](https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/dcp.jpg)](https://www.dailycodingproblem.com)
-![java](https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/java.png "java")
+[![java](https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/java.png)]
 ---
 ![](`https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/java.png`)
 
