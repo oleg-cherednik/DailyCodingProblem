@@ -1,6 +1,6 @@
 /**
  * @author Oleg Cherednik
- * @since 20.01.2019
+ * @since 24.05.2019
  */
 public class Solution {
 
