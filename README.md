@@ -79,6 +79,12 @@
 </details>
 
 <details>
+  <summary>Dropbox</summary>
+  
+  * [#246](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23246%20-%20Dropbox)
+</details>
+
+<details>
   <summary>Google</summary>
 
   * [#1](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23001%20-%20Google)
