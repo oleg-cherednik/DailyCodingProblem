@@ -298,6 +298,7 @@
 <details>
   <summary>Two Sigma</summary>
 
+  * [#45](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23045%20-%20Two%20Sigma) **- not solved**
   * [#71](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23071%20-%20Two%20Sigma) **- not solved** 
 </details>
 
