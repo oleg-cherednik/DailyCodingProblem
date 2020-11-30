@@ -6,10 +6,10 @@
 <details>
   <summary>Airbnb</summary>
 
-  * [#9](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23009%20-%20Airbnb)
-  * [#92](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23092%20-%20Airbnb)
-  * [#167](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23167%20-%20Airbnb)
-  * [#177](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23177%20-%20Airbnb)
+  * [#9](%23000%20-%20%23099/%23009%20-%20Airbnb)
+  * [#92](%23000%20-%20%23099/%23092%20-%20Airbnb)
+  * [#167](%23000%20-%20%23099/%23167%20-%20Airbnb)
+  * [#177](%23000%20-%20%23099/%23177%20-%20Airbnb)
 </details>
 
 <details>
