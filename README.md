@@ -93,7 +93,7 @@
   * [#19](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23019%20-%20Facebook)
   * [#25](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23025%20-%20Facebook)
   * [#27](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23027%20-%20Facebook)
-  * [#30](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23030%20-%20Facebook)
+  * [#30](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23030%20-%20Facebook) **- not solved**
   * [#47](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23047%20-%20Facebook)
   * [#62](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23062%20-%20Facebook)
   * [#69](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23069%20-%20Facebook)
