@@ -181,6 +181,7 @@
   <summary>Jane Street</summary>
 
   * [#5](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23005%20-%20Jane%20Street)
+  * [#32](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23032%20-%20Jane%20Street) **- not solved**
   * [#116](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23116%20-%20Jane%20Street)
   * [#163](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23163%20-%20Jane%20Street)
 </details>
