@@ -280,9 +280,19 @@
   * [#112](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23112%20-%20Twitter)
 </details>
 
-
 <details>
   <summary>Two Sigma</summary>
 
   * [#71](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23071%20-%20Two%20Sigma) **- not solved** 
+</details>
+
+<details>
+  <summary>Uber</summary>
+
+  * [#2](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23002%20-%20Uber)
+  * [#160](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23160%20-%20Uber)
+  * [#166](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23166%20-%20Uber)
+  * [#203](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23203%20-%20Uber)
+</details>
+
 </details>
