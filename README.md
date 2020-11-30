@@ -82,6 +82,7 @@
   <summary>Dropbox</summary>
   
   * [#36](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23036%20-%20Dropbox) **- not solved**
+  * [#39](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23039%20-%20Dropbox) **- not solved**
   * [#246](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23246%20-%20Dropbox)
 </details>
 
