@@ -295,4 +295,10 @@
   * [#203](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23203%20-%20Uber)
 </details>
 
+<details>
+  <summary>Yelp</summary>
+
+  * [#81](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23081%20-%20Yelp)
+</details>
+
 </details>
