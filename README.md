@@ -255,4 +255,12 @@
   * [#131](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23131%20-%20Snapchat)
 </details>
 
+<details>
+  <summary>Square</summary>
+
+  * [#103](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23103%20-%20Square)
+  * [#162](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23162%20-%20Square)
+  * [#244](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23244%20-%20Square)
+</details>
+
 </details>
