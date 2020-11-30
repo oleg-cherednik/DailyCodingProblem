@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.dailycodingproblem.com/"><img src="https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/dcp.jpg"></a></p>
 
 <details>
-  <summary>Group by companies</summary>
+  <summary>Companies</summary>
   
 <details>
   <summary>Airbnb</summary>
@@ -190,6 +190,12 @@
   * [#89](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23089%20-%20LinkedIn)
   * [#123](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23123%20-%20LinkedIn)
   * [#150](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23150%20-%20LinkedIn)
+</details>
+
+<details>
+  <summary>Lyft</summary>
+
+  * [#102](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23102%20-%20Lyft)
 </details>
 
 </details>
