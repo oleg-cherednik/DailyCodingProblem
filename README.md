@@ -239,6 +239,12 @@
 </details>
 
 <details>
+  <summary>Quora</summary>
+
+  * [#34](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23034%20-%20Quora) **- not solved**
+</details>
+
+<details>
   <summary>Riot Games</summary>
 
   * [#132](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23132%20-%20Riot%20Games)
