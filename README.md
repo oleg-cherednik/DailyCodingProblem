@@ -1,7 +1,7 @@
 <p align="center"><a href="https://www.dailycodingproblem.com/"><img src="https://github.com/oleg-cherednik/DailyCodingProblem/blob/master/dcp.jpg"></a></p>
 
 <details>
-  <summary>Google</summary>
+  <summary>Airbnb</summary>
 
   * [#9](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23009%20-%20Airbnb)
   * [#92](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23092%20-%20Airbnb)
