@@ -170,4 +170,10 @@
   * [#232](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23232%20-%20Google)
 </details>
 
+<details>
+  <summary>IBM</summary>
+
+  * [#231](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23231%20-%20IBM)
+</details>
+
 </details>
