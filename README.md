@@ -176,4 +176,12 @@
   * [#231](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23231%20-%20IBM)
 </details>
 
+<details>
+  <summary>Jane Street</summary>
+
+  * [#5](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23005%20-%20Jane%20Street)
+  * [#116](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23116%20-%20Jane%20Street)
+  * [#163](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23163%20-%20Jane%20Street)
+</details>
+
 </details>
