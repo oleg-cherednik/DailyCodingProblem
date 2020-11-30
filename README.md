@@ -198,7 +198,6 @@
   * [#102](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23102%20-%20Lyft)
 </details>
 
-
 <details>
   <summary>Microsoft</summary>
 
@@ -213,6 +212,12 @@
   * [#120](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23120%20-%20Microsoft)
   * [#127](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23127%20-%20Microsoft)
   * [#200](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23200%20-%20Microsoft)
+</details>
+
+<details>
+  <summary>MongoDB</summary>
+
+  * [#155](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23155%20-%20MongoDB)
 </details>
 
 </details>
