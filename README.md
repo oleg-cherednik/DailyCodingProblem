@@ -307,4 +307,13 @@
   * [#122](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23122%20-%20Zillow)
 </details>
 
+<details>
+  <summary>Others</summary>
+
+  * [#129](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23129)
+  * [#147](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23147)
+  * [#151](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23151)
+  * [#153](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23153)
+</details>
+
 </details>
