@@ -3,6 +3,15 @@
 <details>
   <summary>Google</summary>
 
+  * [#9](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23009%20-%20Airbnb)
+  * [#92](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23092%20-%20Airbnb)
+  * [#167](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23167%20-%20Airbnb)
+  * [#177](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23177%20-%20Airbnb)
+</details>
+
+<details>
+  <summary>Google</summary>
+
   * [#1](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23001%20-%20Google)
   * [#3](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23003%20-%20Google)
   * [#6](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23006%20-%20Google)
@@ -51,6 +60,4 @@
   * [#198](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23198%20-%20Google)
   * [#201](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23201%20-%20Google)
   * [#232](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23232%20-%20Google)
-  
-  </center>    
 </details>
