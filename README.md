@@ -198,4 +198,21 @@
   * [#102](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23102%20-%20Lyft)
 </details>
 
+
+<details>
+  <summary>Microsoft</summary>
+
+  * [#22](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23022%20-%20Microsoft)
+  * [#50](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23050%20-%20Microsoft)
+  * [#55](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23055%20-%20Microsoft)
+  * [#63](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23063%20-%20Microsoft)
+  * [#75](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23075%20-%20Microsoft)
+  * [#96](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23096%20-%20Microsoft)
+  * [#99](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23099%20-%20Microsoft)
+  * [#107](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23107%20-%20Microsoft)
+  * [#120](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23120%20-%20Microsoft)
+  * [#127](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23127%20-%20Microsoft)
+  * [#200](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23200%20-%20Microsoft)
+</details>
+
 </details>
