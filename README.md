@@ -140,6 +140,7 @@
   * [#37](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23037%20-%20Google)
   * [#40](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23040%20-%20Google) **- not solved**
   * [#42](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23042%20-%20Google)
+  * [#44](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23044%20-%20Google) **- not solved**
   * [#52](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23052%20-%20Google)
   * [#67](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23067%20-%20Google)
   * [#73](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23073%20-%20Google)
