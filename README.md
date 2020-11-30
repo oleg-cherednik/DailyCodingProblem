@@ -100,6 +100,7 @@
   * [#31](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23041%20-%20Facebook) **- not solved**
   * [#47](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23047%20-%20Facebook)
   * [#51](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23051%20-%20Facebook) **- not solved**
+  * [#60](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23060%20-%20Facebook) **- not solved**
   * [#62](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23062%20-%20Facebook)
   * [#69](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23069%20-%20Facebook)
   * [#85](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23085%20-%20Facebook)
