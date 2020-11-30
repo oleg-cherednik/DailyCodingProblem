@@ -206,6 +206,7 @@
 
   * [#22](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23022%20-%20Microsoft)
   * [#33](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23033%20-%20Microsoft) **- not solved**
+  * [#38](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23038%20-%20Microsoft) **- not solved**
   * [#50](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23050%20-%20Microsoft)
   * [#55](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23055%20-%20Microsoft)
   * [#63](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23063%20-%20Microsoft)
