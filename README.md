@@ -47,7 +47,7 @@
   
   * [#10](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23010%20-%20Apple)
   * [#53](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23053%20-%20Apple)
-  * [#93](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23093%20-%20Apple) - **not solved**
+  * [#93](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23093%20-%20Apple) **- not solved**
   * [#135](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23135%20-%20Apple)
   * [#148](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23148%20-%20Apple)
   * [#196](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23196%20-%20Apple)
@@ -280,4 +280,9 @@
   * [#112](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23112%20-%20Twitter)
 </details>
 
+
+<details>
+  <summary>Two Sigma</summary>
+
+  * [#71](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23071%20-%20Two%20Sigma) **- not solved** 
 </details>
