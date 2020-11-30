@@ -55,6 +55,12 @@
 </details>
 
 <details>
+  <summary>Bloomberg</summary>
+  
+  * [#176](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23176%20-%20Bloomberg)
+</details>
+
+<details>
   <summary>Google</summary>
 
   * [#1](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23001%20-%20Google)
