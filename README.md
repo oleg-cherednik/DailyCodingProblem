@@ -272,4 +272,12 @@
   * [#191](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23191%20-%20Stripe)
 </details>
 
+<details>
+  <summary>Twitter</summary>
+
+  * [#11](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23011%20-%20Twitter)
+  * [#16](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23016%20-%20Twitter)
+  * [#112](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23112%20-%20Twitter)
+</details>
+
 </details>
