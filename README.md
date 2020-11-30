@@ -220,4 +220,13 @@
   * [#155](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23155%20-%20MongoDB)
 </details>
 
+<details>
+  <summary>Palantir</summary>
+
+  * [#28](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23028%20-%20Palantir)
+  * [#95](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23095%20-%20Palantir)
+  * [#202](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23202%20-%20Palantir)
+  * [#241](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23241%20-%20Palantir)
+</details>
+
 </details>
