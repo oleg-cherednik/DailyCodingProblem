@@ -229,4 +229,10 @@
   * [#241](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23241%20-%20Palantir)
 </details>
 
+<details>
+  <summary>Pinterest</summary>
+
+  * [#106](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23106%20-%20Pinterest)
+</details>
+
 </details>
