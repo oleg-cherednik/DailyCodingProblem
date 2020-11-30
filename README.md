@@ -247,4 +247,12 @@
   * [#158](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23158%20-%20Slack)
 </details>
 
+<details>
+  <summary>Snapchat</summary>
+
+  * [#21](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23021%20-%20Snapchat)
+  * [#77](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23077%20-%20Snapchat)
+  * [#131](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23131%20-%20Snapchat)
+</details>
+
 </details>
