@@ -19,6 +19,30 @@
 </details>
 
 <details>
+  <summary>Amazon</summary>
+
+  * [#12](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23012%20-%20Amazon)
+  * [#13](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23013%20-%20Amazon)
+  * [#29](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23029%20-%20Amazon)
+  * [#43](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23043%20-%20Amazon)
+  * [#46](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23046%20-%20Amazon)
+  * [#49](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23049%20-%20Amazon)
+  * [#57](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23057%20-%20Amazon)
+  * [#58](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23058%20-%20Amazon)
+  * [#65](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23065%20-%20Amazon)
+  * [#84](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23084%20-%20Amazon)
+  * [#133](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23133%20-%20Amazon)
+  * [#137](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23137%20-%20Amazon)
+  * [#143](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23143%20-%20Amazon)
+  * [#154](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23154%20-%20Amazon)
+  * [#157](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23157%20-%20Amazon)
+  * [#171](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23171%20-%20Amazon)
+  * [#184](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23184%20-%20Amazon)
+  * [#197](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23197%20-%20Amazon)
+  * [#237](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23237%20-%20Amazon)
+</details>
+
+<details>
   <summary>Google</summary>
 
   * [#1](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23001%20-%20Google)
