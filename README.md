@@ -263,4 +263,13 @@
   * [#244](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23244%20-%20Square)
 </details>
 
+<details>
+  <summary>Stripe</summary>
+
+  * [#4](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23004%20-%20Stripe)
+  * [#97](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23097%20-%20Stripe)
+  * [#173](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23173%20-%20Stripe)
+  * [#191](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23191%20-%20Stripe)
+</details>
+
 </details>
