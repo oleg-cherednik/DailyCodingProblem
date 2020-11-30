@@ -241,4 +241,10 @@
   * [#132](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23132%20-%20Riot%20Games)
 </details>
 
+<details>
+  <summary>Slack</summary>
+
+  * [#158](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23158%20-%20Slack)
+</details>
+
 </details>
