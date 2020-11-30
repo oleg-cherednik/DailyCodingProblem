@@ -235,4 +235,10 @@
   * [#106](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23106%20-%20Pinterest)
 </details>
 
+<details>
+  <summary>Riot Games</summary>
+
+  * [#132](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23132%20-%20Riot%20Games)
+</details>
+
 </details>
