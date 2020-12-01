@@ -15,7 +15,7 @@
 <details>
   <summary>Alibaba</summary>
 
-  * [#101](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23101%20-%20Alibaba)
+  * [#101](%23100%20-%20%23199/%23101%20-%20Alibaba)
 </details>
 
 <details>
