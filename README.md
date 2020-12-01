@@ -74,6 +74,12 @@
 </details>
 
 <details>
+  <summary>Context Logic</summary>
+
+  * [#88](%23000%20-%20%23099/%23088%20-%20Context%20Logic) **- not solved**
+</details>
+
+<details>
   <summary>Coursera</summary>
   
   * [#98](%23000%20-%20%23099/%23098%20-%20Coursera)
