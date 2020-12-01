@@ -45,297 +45,297 @@
 <details>
   <summary>Apple</summary>
   
-  * [#10](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23010%20-%20Apple)
-  * [#53](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23053%20-%20Apple)
-  * [#93](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23093%20-%20Apple) **- not solved**
-  * [#135](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23135%20-%20Apple)
-  * [#148](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23148%20-%20Apple)
-  * [#196](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23196%20-%20Apple)
-  * [#233](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23233%20-%20Apple)
+  * [#10](%23000%20-%20%24099/%23010%20-%20Apple)
+  * [#53](%23000%20-%20%24099/%23053%20-%20Apple)
+  * [#93](%23000%20-%20%24099/%23093%20-%20Apple) **- not solved**
+  * [#135](%23100%20-%20%24199/%23135%20-%20Apple)
+  * [#148](%23100%20-%20%24199/%23148%20-%20Apple)
+  * [#196](%23100%20-%20%24199/%23196%20-%20Apple)
+  * [#233](%23200%20-%20%24299/%23233%20-%20Apple)
 </details>
 
 <details>
   <summary>Bloomberg</summary>
   
-  * [#176](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23176%20-%20Bloomberg)
+  * [#176](%23100%20-%20%24199/%23176%20-%20Bloomberg)
 </details>
 
 <details>
   <summary>BufferBox</summary>
   
-  * [#146](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23146%20-%20BufferBox)
+  * [#146](%23100%20-%20%24199/%23146%20-%20BufferBox)
 </details>
 
 <details>
   <summary>Cisco</summary>
   
-  * [#109](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23109%20-%20Cisco)
+  * [#109](%23100%20-%20%24199/%23109%20-%20Cisco)
 </details>
 
 <details>
   <summary>Coursera</summary>
   
-  * [#98](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23098%20-%20Coursera)
+  * [#98](%23000%20-%20%24099/%23098%20-%20Coursera)
 </details>
 
 <details>
   <summary>Dropbox</summary>
   
-  * [#36](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23036%20-%20Dropbox) **- not solved**
-  * [#39](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23039%20-%20Dropbox) **- not solved**
-  * [#54](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23054%20-%20Dropbox) **- not solved**
-  * [#246](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23246%20-%20Dropbox)
+  * [#36](%23000%20-%20%23099/%23036%20-%20Dropbox) **- not solved**
+  * [#39](%23000%20-%20%23099/%23039%20-%20Dropbox) **- not solved**
+  * [#54](%23000%20-%20%23099/%23054%20-%20Dropbox) **- not solved**
+  * [#246](%23200%20-%20%24299/%23246%20-%20Dropbox)
 </details>
 
 
 <details>
   <summary>Facebook</summary>
 
-  * [#7](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23007%20-%20Facebook)
-  * [#15](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23015%20-%20Facebook)
-  * [#19](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23019%20-%20Facebook)
-  * [#25](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23025%20-%20Facebook)
-  * [#27](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23027%20-%20Facebook)
-  * [#30](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23030%20-%20Facebook) **- not solved**
-  * [#31](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23041%20-%20Facebook) **- not solved**
-  * [#47](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23047%20-%20Facebook)
-  * [#51](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23051%20-%20Facebook) **- not solved**
-  * [#60](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23060%20-%20Facebook) **- not solved**
-  * [#62](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23062%20-%20Facebook)
-  * [#69](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23069%20-%20Facebook)
-  * [#85](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23085%20-%20Facebook)
-  * [#110](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23110%20-%20Facebook)
-  * [#117](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23117%20-%20Facebook)
-  * [#126](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23126%20-%20Facebook)
-  * [#130](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23130%20-%20Facebook)
-  * [#134](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23134%20-%20Facebook)
-  * [#156](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23156%20-%20Facebook)
-  * [#161](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23161%20-%20Facebook)
-  * [#168](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23168%20-%20Facebook)
-  * [#170](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23170%20-%20Facebook)
-  * [#182](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23182%20-%20Facebook)
-  * [#190](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23190%20-%20Facebook)
-  * [#199](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23199%20-%20Facebook)
+  * [#7](%23000%20-%20%24099/%23007%20-%20Facebook)
+  * [#15](%23000%20-%20%24099/%23015%20-%20Facebook)
+  * [#19](%23000%20-%20%24099/%23019%20-%20Facebook)
+  * [#25](%23000%20-%20%24099/%23025%20-%20Facebook)
+  * [#27](%23000%20-%20%24099/%23027%20-%20Facebook)
+  * [#30](%23000%20-%20%23099/%23030%20-%20Facebook) **- not solved**
+  * [#31](%23000%20-%20%23099/%23041%20-%20Facebook) **- not solved**
+  * [#47](%23000%20-%20%24099/%23047%20-%20Facebook)
+  * [#51](%23000%20-%20%23099/%23051%20-%20Facebook) **- not solved**
+  * [#60](%23000%20-%20%23099/%23060%20-%20Facebook) **- not solved**
+  * [#62](%23000%20-%20%24099/%23062%20-%20Facebook)
+  * [#69](%23000%20-%20%24099/%23069%20-%20Facebook)
+  * [#85](%23000%20-%20%24099/%23085%20-%20Facebook)
+  * [#110](%23100%20-%20%24199/%23110%20-%20Facebook)
+  * [#117](%23100%20-%20%24199/%23117%20-%20Facebook)
+  * [#126](%23100%20-%20%24199/%23126%20-%20Facebook)
+  * [#130](%23100%20-%20%24199/%23130%20-%20Facebook)
+  * [#134](%23100%20-%20%24199/%23134%20-%20Facebook)
+  * [#156](%23100%20-%20%24199/%23156%20-%20Facebook)
+  * [#161](%23100%20-%20%24199/%23161%20-%20Facebook)
+  * [#168](%23100%20-%20%24199/%23168%20-%20Facebook)
+  * [#170](%23100%20-%20%24199/%23170%20-%20Facebook)
+  * [#182](%23100%20-%20%24199/%23182%20-%20Facebook)
+  * [#190](%23100%20-%20%24199/%23190%20-%20Facebook)
+  * [#199](%23100%20-%20%24199/%23199%20-%20Facebook)
 </details>
 
 <details>
   <summary>Goldman Sachs</summary>
   
-  * [#149](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23149%20-%20Goldman%20Sachs)
+  * [#149](%23100%20-%20%23199/%23149%20-%20Goldman%20Sachs)
 </details>
 
 <details>
   <summary>Google</summary>
 
-  * [#1](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23001%20-%20Google)
-  * [#3](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23003%20-%20Google)
-  * [#6](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23006%20-%20Google)
-  * [#8](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23008%20-%20Google)
-  * [#14](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23014%20-%20Google)
-  * [#17](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23017%20-%20Google)
-  * [#18](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23018%20-%20Google)
-  * [#20](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23020%20-%20Google)
-  * [#23](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23023%20-%20Google)
-  * [#24](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23024%20-%20Google)
-  * [#26](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23026%20-%20Google)
-  * [#31](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23031%20-%20Google)
-  * [#35](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23035%20-%20Google)
-  * [#37](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23037%20-%20Google)
-  * [#40](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23040%20-%20Google) **- not solved**
-  * [#42](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23042%20-%20Google)
-  * [#44](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23044%20-%20Google) **- not solved**
-  * [#48](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23048%20-%20Google) **- not solved**
-  * [#52](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23052%20-%20Google)
-  * [#56](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23056%20-%20Google) **- not solved**
-  * [#59](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23059%20-%20Google) **- not solved**
-  * [#67](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23067%20-%20Google)
-  * [#73](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23073%20-%20Google)
-  * [#78](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23078%20-%20Google)
-  * [#80](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23080%20-%20Google)
-  * [#83](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23083%20-%20Google)
-  * [#86](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23086%20-%20Google)
-  * [#100](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23100%20-%20Google)
-  * [#104](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23104%20-%20Google)
-  * [#108](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23108%20-%20Google)
-  * [#111](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23111%20-%20Google)
-  * [#113](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23113%20-%20Google)
-  * [#115](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23115%20-%20Google)
-  * [#118](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23118%20-%20Google)
-  * [#119](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23119%20-%20Google)
-  * [#125](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23125%20-%20Google)
-  * [#136](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23136%20-%20Google)
-  * [#138](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23138%20-%20Google)
-  * [#139](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23139%20-%20Google)
-  * [#142](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23142%20-%20Google)
-  * [#144](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23144%20-%20Google)
-  * [#145](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23145%20-%20Google)
-  * [#159](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23159%20-%20Google)
-  * [#164](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23164%20-%20Google)
-  * [#165](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23165%20-%20Google)
-  * [#180](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23180%20-%20Google)
-  * [#181](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23181%20-%20Google)
-  * [#189](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23189%20-%20Google)
-  * [#192](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23192%20-%20Google)
-  * [#195](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%24099/%23086%20-%20Google)
-  * [#198](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%24199/%23198%20-%20Google)
-  * [#201](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23201%20-%20Google)
-  * [#232](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%24299/%23232%20-%20Google)
+  * [#1](%23000%20-%20%24099/%23001%20-%20Google)
+  * [#3](%23000%20-%20%24099/%23003%20-%20Google)
+  * [#6](%23000%20-%20%24099/%23006%20-%20Google)
+  * [#8](%23000%20-%20%24099/%23008%20-%20Google)
+  * [#14](%23000%20-%20%24099/%23014%20-%20Google)
+  * [#17](%23000%20-%20%24099/%23017%20-%20Google)
+  * [#18](%23000%20-%20%24099/%23018%20-%20Google)
+  * [#20](%23000%20-%20%24099/%23020%20-%20Google)
+  * [#23](%23000%20-%20%24099/%23023%20-%20Google)
+  * [#24](%23000%20-%20%24099/%23024%20-%20Google)
+  * [#26](%23000%20-%20%24099/%23026%20-%20Google)
+  * [#31](%23000%20-%20%24099/%23031%20-%20Google)
+  * [#35](%23000%20-%20%24099/%23035%20-%20Google)
+  * [#37](%23000%20-%20%24099/%23037%20-%20Google)
+  * [#40](%23000%20-%20%23099/%23040%20-%20Google) **- not solved**
+  * [#42](%23000%20-%20%24099/%23042%20-%20Google)
+  * [#44](%23000%20-%20%23099/%23044%20-%20Google) **- not solved**
+  * [#48](%23000%20-%20%23099/%23048%20-%20Google) **- not solved**
+  * [#52](%23000%20-%20%24099/%23052%20-%20Google)
+  * [#56](%23000%20-%20%23099/%23056%20-%20Google) **- not solved**
+  * [#59](%23000%20-%20%23099/%23059%20-%20Google) **- not solved**
+  * [#67](%23000%20-%20%24099/%23067%20-%20Google)
+  * [#73](%23000%20-%20%24099/%23073%20-%20Google)
+  * [#78](%23000%20-%20%24099/%23078%20-%20Google)
+  * [#80](%23000%20-%20%24099/%23080%20-%20Google)
+  * [#83](%23000%20-%20%24099/%23083%20-%20Google)
+  * [#86](%23000%20-%20%24099/%23086%20-%20Google)
+  * [#100](%23100%20-%20%24199/%23100%20-%20Google)
+  * [#104](%23100%20-%20%24199/%23104%20-%20Google)
+  * [#108](%23100%20-%20%24199/%23108%20-%20Google)
+  * [#111](%23100%20-%20%24199/%23111%20-%20Google)
+  * [#113](%23100%20-%20%24199/%23113%20-%20Google)
+  * [#115](%23100%20-%20%24199/%23115%20-%20Google)
+  * [#118](%23100%20-%20%24199/%23118%20-%20Google)
+  * [#119](%23100%20-%20%24199/%23119%20-%20Google)
+  * [#125](%23100%20-%20%24199/%23125%20-%20Google)
+  * [#136](%23100%20-%20%24199/%23136%20-%20Google)
+  * [#138](%23100%20-%20%24199/%23138%20-%20Google)
+  * [#139](%23100%20-%20%24199/%23139%20-%20Google)
+  * [#142](%23100%20-%20%24199/%23142%20-%20Google)
+  * [#144](%23100%20-%20%24199/%23144%20-%20Google)
+  * [#145](%23100%20-%20%24199/%23145%20-%20Google)
+  * [#159](%23100%20-%20%24199/%23159%20-%20Google)
+  * [#164](%23100%20-%20%24199/%23164%20-%20Google)
+  * [#165](%23100%20-%20%24199/%23165%20-%20Google)
+  * [#180](%23100%20-%20%24199/%23180%20-%20Google)
+  * [#181](%23100%20-%20%24199/%23181%20-%20Google)
+  * [#189](%23100%20-%20%24199/%23189%20-%20Google)
+  * [#192](%23100%20-%20%24199/%23192%20-%20Google)
+  * [#195](%23000%20-%20%24099/%23086%20-%20Google)
+  * [#198](%23100%20-%20%24199/%23198%20-%20Google)
+  * [#201](%23200%20-%20%24299/%23201%20-%20Google)
+  * [#232](%23200%20-%20%24299/%23232%20-%20Google)
 </details>
 
 <details>
   <summary>IBM</summary>
 
-  * [#231](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23231%20-%20IBM)
+  * [#231](%23200%20-%20%23299/%23231%20-%20IBM)
 </details>
 
 <details>
   <summary>Jane Street</summary>
 
-  * [#5](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23005%20-%20Jane%20Street)
-  * [#32](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23032%20-%20Jane%20Street) **- not solved**
-  * [#116](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23116%20-%20Jane%20Street)
-  * [#163](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23163%20-%20Jane%20Street)
+  * [#5](%23000%20-%20%23099/%23005%20-%20Jane%20Street)
+  * [#32](%23000%20-%20%23099/%23032%20-%20Jane%20Street) **- not solved**
+  * [#116](%23100%20-%20%23199/%23116%20-%20Jane%20Street)
+  * [#163](%23100%20-%20%23199/%23163%20-%20Jane%20Street)
 </details>
 
 <details>
   <summary>LinkedIn</summary>
 
-  * [#89](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23089%20-%20LinkedIn)
-  * [#123](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23123%20-%20LinkedIn)
-  * [#150](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23150%20-%20LinkedIn)
+  * [#89](%23000%20-%20%23099/%23089%20-%20LinkedIn)
+  * [#123](%23100%20-%20%23199/%23123%20-%20LinkedIn)
+  * [#150](%23100%20-%20%23199/%23150%20-%20LinkedIn)
 </details>
 
 <details>
   <summary>Lyft</summary>
 
-  * [#102](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23102%20-%20Lyft)
+  * [#102](%23100%20-%20%23199/%23102%20-%20Lyft)
 </details>
 
 <details>
   <summary>Microsoft</summary>
 
-  * [#22](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23022%20-%20Microsoft)
-  * [#33](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23033%20-%20Microsoft) **- not solved**
-  * [#38](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23038%20-%20Microsoft) **- not solved**
-  * [#50](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23050%20-%20Microsoft)
-  * [#55](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23055%20-%20Microsoft)
-  * [#63](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23063%20-%20Microsoft)
-  * [#75](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23075%20-%20Microsoft)
-  * [#96](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23096%20-%20Microsoft)
-  * [#99](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23099%20-%20Microsoft)
-  * [#107](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23107%20-%20Microsoft)
-  * [#120](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23120%20-%20Microsoft)
-  * [#127](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23127%20-%20Microsoft)
-  * [#200](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23200%20-%20Microsoft)
+  * [#22](%23000%20-%20%23099/%23022%20-%20Microsoft)
+  * [#33](%23000%20-%20%23099/%23033%20-%20Microsoft) **- not solved**
+  * [#38](%23000%20-%20%23099/%23038%20-%20Microsoft) **- not solved**
+  * [#50](%23000%20-%20%23099/%23050%20-%20Microsoft)
+  * [#55](%23000%20-%20%23099/%23055%20-%20Microsoft)
+  * [#63](%23000%20-%20%23099/%23063%20-%20Microsoft)
+  * [#75](%23000%20-%20%23099/%23075%20-%20Microsoft)
+  * [#96](%23000%20-%20%23099/%23096%20-%20Microsoft)
+  * [#99](%23000%20-%20%23099/%23099%20-%20Microsoft)
+  * [#107](%23100%20-%20%23199/%23107%20-%20Microsoft)
+  * [#120](%23100%20-%20%23199/%23120%20-%20Microsoft)
+  * [#127](%23100%20-%20%23199/%23127%20-%20Microsoft)
+  * [#200](%23200%20-%20%23299/%23200%20-%20Microsoft)
 </details>
 
 <details>
   <summary>MongoDB</summary>
 
-  * [#155](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23155%20-%20MongoDB)
+  * [#155](%23100%20-%20%23199/%23155%20-%20MongoDB)
 </details>
 
 <details>
   <summary>Palantir</summary>
 
-  * [#28](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23028%20-%20Palantir)
-  * [#95](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23095%20-%20Palantir)
-  * [#202](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23202%20-%20Palantir)
-  * [#241](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23241%20-%20Palantir)
+  * [#28](%23000%20-%20%23099/%23028%20-%20Palantir)
+  * [#95](%23000%20-%20%23099/%23095%20-%20Palantir)
+  * [#202](%23200%20-%20%23299/%23202%20-%20Palantir)
+  * [#241](%23200%20-%20%23299/%23241%20-%20Palantir)
 </details>
 
 <details>
   <summary>Pinterest</summary>
 
-  * [#106](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23106%20-%20Pinterest)
+  * [#106](%23100%20-%20%23199/%23106%20-%20Pinterest)
 </details>
 
 <details>
   <summary>Quora</summary>
 
-  * [#34](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23034%20-%20Quora) **- not solved**
+  * [#34](%23000%20-%20%23099/%23034%20-%20Quora) **- not solved**
 </details>
 
 <details>
   <summary>Riot Games</summary>
 
-  * [#132](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23132%20-%20Riot%20Games)
+  * [#132](%23100%20-%20%23199/%23132%20-%20Riot%20Games)
 </details>
 
 <details>
   <summary>Slack</summary>
 
-  * [#158](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23158%20-%20Slack)
+  * [#158](%23100%20-%20%23199/%23158%20-%20Slack)
 </details>
 
 <details>
   <summary>Snapchat</summary>
 
-  * [#21](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23021%20-%20Snapchat)
-  * [#77](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23077%20-%20Snapchat)
-  * [#131](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23131%20-%20Snapchat)
+  * [#21](%23000%20-%20%23099/%23021%20-%20Snapchat)
+  * [#77](%23000%20-%20%23099/%23077%20-%20Snapchat)
+  * [#131](%23100%20-%20%23199/%23131%20-%20Snapchat)
 </details>
 
 <details>
   <summary>Square</summary>
 
-  * [#103](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23103%20-%20Square)
-  * [#162](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23162%20-%20Square)
-  * [#244](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23244%20-%20Square)
+  * [#103](%23100%20-%20%23199/%23103%20-%20Square)
+  * [#162](%23100%20-%20%23199/%23162%20-%20Square)
+  * [#244](%23200%20-%20%23299/%23244%20-%20Square)
 </details>
 
 <details>
   <summary>Stripe</summary>
 
-  * [#4](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23004%20-%20Stripe)
-  * [#97](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23097%20-%20Stripe)
-  * [#173](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23173%20-%20Stripe)
-  * [#191](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23191%20-%20Stripe)
+  * [#4](%23004%20-%20Stripe)
+  * [#97](%23000%20-%20%23099/%23097%20-%20Stripe)
+  * [#173](%23100%20-%20%23199/%23173%20-%20Stripe)
+  * [#191](%23100%20-%20%23199/%23191%20-%20Stripe)
 </details>
 
 <details>
   <summary>Twitter</summary>
 
-  * [#11](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23011%20-%20Twitter)
-  * [#16](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23016%20-%20Twitter)
-  * [#112](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23112%20-%20Twitter)
+  * [#11](%23000%20-%20%23099/%23011%20-%20Twitter)
+  * [#16](%23000%20-%20%23099/%23016%20-%20Twitter)
+  * [#112](%23100%20-%20%23199/%23112%20-%20Twitter)
 </details>
 
 <details>
   <summary>Two Sigma</summary>
 
-  * [#45](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23045%20-%20Two%20Sigma) **- not solved**
-  * [#71](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23071%20-%20Two%20Sigma) **- not solved** 
+  * [#45](%23000%20-%20%23099/%23045%20-%20Two%20Sigma) **- not solved**
+  * [#71](%23000%20-%20%23099/%23071%20-%20Two%20Sigma) **- not solved** 
 </details>
 
 <details>
   <summary>Uber</summary>
 
-  * [#2](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23002%20-%20Uber)
-  * [#160](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23160%20-%20Uber)
-  * [#166](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23166%20-%20Uber)
-  * [#203](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23200%20-%20%23299/%23203%20-%20Uber)
+  * [#2](%23000%20-%20%23099/%23002%20-%20Uber)
+  * [#160](%23100%20-%20%23199/%23160%20-%20Uber)
+  * [#166](%23100%20-%20%23199/%23166%20-%20Uber)
+  * [#203](%23200%20-%20%23299/%23203%20-%20Uber)
 </details>
 
 <details>
   <summary>Yelp</summary>
 
-  * [#81](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23000%20-%20%23099/%23081%20-%20Yelp)
+  * [#81](%23000%20-%20%23099/%23081%20-%20Yelp)
 </details>
 
 <details>
   <summary>Zillow</summary>
 
-  * [#122](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23122%20-%20Zillow)
+  * [#122](%23100%20-%20%23199/%23122%20-%20Zillow)
 </details>
 
 <details>
   <summary>Others</summary>
 
-  * [#129](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23129)
-  * [#147](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23147)
-  * [#151](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23151)
-  * [#153](https://github.com/oleg-cherednik/DailyCodingProblem/tree/master/%23100%20-%20%23199/%23153)
+  * [#129](%23100%20-%20%23199/%23129)
+  * [#147](%23100%20-%20%23199/%23147)
+  * [#151](%23100%20-%20%23199/%23151)
+  * [#153](%23100%20-%20%23199/%23153)
 </details>
 
 </details>
