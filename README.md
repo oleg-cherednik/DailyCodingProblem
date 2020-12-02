@@ -3,6 +3,12 @@
 <details>
   <summary>Companies</summary>
   
+ <details>
+  <summary>Affirm</summary>
+
+  * [#193](%23100%20-%20%23199/%23193%20-%20Affirm) **- not solved**
+</details>
+
 <details>
   <summary>Airbnb</summary>
 
