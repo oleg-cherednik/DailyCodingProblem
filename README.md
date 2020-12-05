@@ -389,6 +389,12 @@
 </details>
 
 <details>
+  <summary>Yahoo</summary>
+
+  * [#218](%23200%20-%20%23299/%23218%20-%20Yahoo) **- not solved**
+</details>
+
+<details>
   <summary>Yelp</summary>
 
   * [#81](%23000%20-%20%23099/%23081%20-%20Yelp)
