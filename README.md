@@ -283,6 +283,12 @@
 </details>
 
 <details>
+  <summary>Oracle</summary>
+
+  * [#217](%23200%20-%20%23299/%23217%20-%20Oracle) **- not solved**
+</details>
+
+<details>
   <summary>Palantir</summary>
 
   * [#28](%23000%20-%20%23099/%23028%20-%20Palantir)
