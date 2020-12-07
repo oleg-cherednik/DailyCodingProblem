@@ -145,6 +145,12 @@
 </details>
 
 <details>
+  <summary>Flipkart</summary>
+  
+  * [#229](%23200%20-%20%23299/%23229%20-%20Flipkart) **- not solved**
+</details>
+
+<details>
   <summary>Goldman Sachs</summary>
   
   * [#149](%23100%20-%20%23199/%23149%20-%20Goldman%20Sachs)
