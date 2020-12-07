@@ -68,6 +68,7 @@
   <summary>Bloomberg</summary>
   
   * [#176](%23100%20-%20%23199/%23176%20-%20Bloomberg)
+  * [#225](%23200%20-%20%23299/%23225%20-%20Bloomberg) **- not solved**
 </details>
 
 <details>
