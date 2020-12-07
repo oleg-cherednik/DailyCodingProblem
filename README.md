@@ -154,6 +154,7 @@
   <summary>Goldman Sachs</summary>
   
   * [#149](%23100%20-%20%23199/%23149%20-%20Goldman%20Sachs)
+  * [#230](%23200%20-%20%23299/%23230%20-%20Goldman%20Sachs) **- not solved**
 </details>
 
 <details>
