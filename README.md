@@ -289,6 +289,12 @@
 </details>
 
 <details>
+  <summary>Nvidia</summary>
+
+  * [#236](%23200%20-%20%23299/%23236%20-%20Nvidia) **- not solved**
+</details>
+
+<details>
   <summary>MongoDB</summary>
 
   * [#155](%23100%20-%20%23199/%23155%20-%20MongoDB)
