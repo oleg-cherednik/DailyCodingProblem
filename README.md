@@ -110,6 +110,12 @@
 </details>
 
 <details>
+  <summary>Etsy</summary>
+  
+  * [#243](%23200%20-%20%23299/%23243%20-%20Etsy) **- not solved**
+</details>
+
+<details>
   <summary>Facebook</summary>
 
   * [#7](%23000%20-%20%23099/%23007%20-%20Facebook)
