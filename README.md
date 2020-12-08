@@ -363,6 +363,12 @@
 </details>
 
 <details>
+  <summary>Spotify</summary>
+
+  * [#240](%23200%20-%20%23299/%23240%20-%20Spotify) **- not solved**
+</details>
+
+<details>
   <summary>Square</summary>
 
   * [#66](%23000%20-%20%23099/%23066%20-%20Square) **- not solved**
